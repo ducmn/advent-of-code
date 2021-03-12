@@ -3,7 +3,7 @@ content = f.read()
 x = content.split("\n")
 x.pop(-1)
 
-# COunter
+# Counter
 counter = 0
 
 for i in x:
